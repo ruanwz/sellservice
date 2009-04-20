@@ -1,0 +1,6 @@
+{release,{"sellservice","0.1.0.0"},
+         {erts,"5.6.3"},
+         [{sellaprime,"0.1.0"},
+          {kernel,"2.12.3"},
+          {stdlib,"1.15.3"},
+          {eunit,"2.0"}]}.
